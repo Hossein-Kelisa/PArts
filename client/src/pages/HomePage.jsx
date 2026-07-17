@@ -2,6 +2,7 @@
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import Portfolio from "../components/Portfolio";
+import About from "../components/About";
 import "./HomePage.css";
 
 function HomePage() {
@@ -10,6 +11,7 @@ function HomePage() {
       <Navbar />
       <Hero />
       <Portfolio />
+      <About />
     </div>
   );
 }
