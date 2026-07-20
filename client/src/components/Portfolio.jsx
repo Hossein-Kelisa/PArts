@@ -37,7 +37,7 @@ function Portfolio() {
     <section className="portfolio">
 
       <div className="portfolio-header">
-        {/* <p>Latest Work</p> */}
+        <p>Latest Work</p>
 
         <h2>Portfolio</h2>
 
