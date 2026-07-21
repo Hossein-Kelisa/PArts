@@ -39,7 +39,7 @@ function Portfolio() {
       <div className="portfolio-header">
         <p>Latest Work</p>
 
-        <h2>Portfolio</h2>
+        {/* <h2>Portfolio</h2> */}
 
         <span>
           Discover a selection of our latest photography and videography projects.

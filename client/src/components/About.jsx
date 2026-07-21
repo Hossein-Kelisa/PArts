@@ -6,8 +6,8 @@ function About() {
   return (
     <section className="about">
       <div className="about-left">
-        <p className="about-subtitle">About Us</p>
-        <h2>Who We Are</h2>
+        <p className="about-subtitle"> Who We Are</p>
+        {/* <h2>Who We Are</h2> */}
         <p className="about-text">
           We are a photography and videography studio dedicated to capturing
           real moments with a modern, elegant style. Every project we create
