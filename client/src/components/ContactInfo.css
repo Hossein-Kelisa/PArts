@@ -1,6 +1,7 @@
 .contact-info-section {
   padding: 30px 8%;
-  background: linear-gradient(to bottom, #f8f6f2, #ffffff);
+  /* background: linear-gradient(to bottom, #f8f6f2, #ffffff); */
+  background: #111111;
 }
 
 .contact-info-container {
@@ -23,13 +24,17 @@
 }
 
 .contact-info-title svg {
-  font-size: 1.3rem;
-  color: #111111;
+  /* font-size: 1.3rem;
+  color: #111111; */
+  font-size: 1.4rem;
+  color: #e9e2d8;
 }
 
 .contact-info-title h3 {
-  color: #111111;
-  font-size: 1.3rem;
+  /* color: #111111;
+  font-size: 1.3rem; */
+  color: #e9e2d8;
+  font-size: 1.4rem;
   font-weight: 600;
 }
 
@@ -48,21 +53,24 @@
 }
 
 .contact-info-row svg {
-  color: #111111;
+  /* color: #111111; */
+  color: #e9e2d874;
   font-size: 1rem;
   margin-top: 4px;
   min-width: 18px;
 }
 
 .contact-info-row p {
-  color: #555555;
+  /* color: #555555; */
+  color: #e9e2d874;
   line-height: 1.7;
   margin: 0;
 }
 
 .contact-info-row small {
   display: block;
-  color: #888;
+  /* color: #888; */
+  color: #e9e2d8c6;
   margin-top: 4px;
 }
 
@@ -73,7 +81,8 @@
   }
 
   .contact-info-item {
-    border-bottom: 1px solid #e8e8e8;
+    /* border-bottom: 1px solid #e8e8e8; */
+    border-bottom: 1px solid #e8e8e859;
     padding-bottom: 30px;
   }
 
