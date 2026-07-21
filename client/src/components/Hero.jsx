@@ -7,9 +7,9 @@ function Hero() {
 
       <div className="hero-left">
 
-        <p className="hero-subtitle">
+        {/* <p className="hero-subtitle">
           Photography & Videography Studio
-        </p>
+        </p> */}
 
         <h1>
           Capturing

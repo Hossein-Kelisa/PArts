@@ -12,14 +12,14 @@
   color: #555555;
   letter-spacing: 2px;
   text-transform: uppercase;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 
-.portfolio-header h2 {
+/* .portfolio-header h2 {
   color: #111111;
   font-size: 3rem;
   margin-bottom: 25px;
-}
+} */
 
 .portfolio-header span {
   color: #555555;
@@ -85,10 +85,8 @@
   text-decoration: none;
   background: transparent;
   color: #111111;
-
   padding: 15px 40px;
   display: inline-block;
-
   transition: 0.3s;
 }
 

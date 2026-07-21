@@ -17,9 +17,9 @@ function Contact() {
         {/* Right */}
         <div className="contact-form-content">
 
-          <span className="contact-form-subtitle">
+          {/* <span className="contact-form-subtitle">
             CONTACT US
-          </span>
+          </span> */}
 
           <h2>
             Let's Create Something Beautiful Together

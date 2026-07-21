@@ -28,7 +28,7 @@ function Services() {
     <section className="services">
       <div className="services-header">
         <p>What We Offer</p>
-        <h2>Our Services</h2>
+        {/* <h2>Our Services</h2> */}
         <span>
           We provide a range of professional photography and videography
           services tailored to your needs.
