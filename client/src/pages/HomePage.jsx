@@ -4,6 +4,8 @@ import Hero from "../components/Hero";
 import Portfolio from "../components/Portfolio";
 import About from "../components/About";
 import Services from "../components/Services";
+import ContactForm from "../components/ContactForm";
+import ContactInfo from "../components/ContactInfo";
 import "./HomePage.css";
 
 function HomePage() {
@@ -14,6 +16,8 @@ function HomePage() {
       <Portfolio />
       <About />
       <Services />
+      <ContactForm />
+      <ContactInfo />
     </div>
   );
 }
