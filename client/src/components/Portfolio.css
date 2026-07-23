@@ -44,9 +44,11 @@
 }
 
 .portfolio-image {
-  height: 350px;
+  height: 320px;
   overflow: hidden;
   border-radius: 2px;
+  border: 10px solid #ffffff;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .portfolio-image img {
