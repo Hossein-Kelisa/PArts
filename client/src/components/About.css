@@ -55,7 +55,8 @@
   height: 560px;
   object-fit: cover;
   border-radius: 1px;
-  box-shadow: 0 10px 50px #7e7971b9;
+  border: 10px solid #ffffff;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 @media (max-width: 768px) {
