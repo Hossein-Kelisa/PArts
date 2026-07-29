@@ -13,14 +13,23 @@
   align-items: center;
 }
 
+.contact-form-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .contact-form-image img {
   width: 100%;
+  max-width: 500px;
   height: 700px;
   background: white;
   padding: 18px;
   border-radius: 1px;
   box-shadow: 0 10px 50px #7e7971b9;
   object-fit: cover;
+  display: block;
+  margin-inline: auto;
 }
 
 .contact-form-content span {
