@@ -57,7 +57,7 @@
   padding: 18px;
   border-radius: 1px;
   box-shadow: 0 10px 50px #7e7971b9;
-    object-fit: cover;
+  object-fit: cover;
 
 }
 
@@ -70,7 +70,7 @@
   }
 
   .about-left {
-    max-width: 700px;
+    max-width: 680px;
   }
 
   .about-left h2 {
